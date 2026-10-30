@@ -1,6 +1,6 @@
 # Excel Personal Workbook | Formulas, Functions & Data Analysis
 
-### Microsoft Excel Knowledge Base — Beginner to Advanced
+### Microsoft Excel Knowledge Base - Beginner to Advanced
 
 A comprehensive Microsoft Excel workbook developed as a personal knowledge base, combining practical examples, formulas, functions, and productivity techniques to support data analysis, reporting, and efficient spreadsheet management.
 
@@ -33,7 +33,7 @@ It also includes a dedicated navigation index and a collection of additional Exc
 
 ## Workbook Contents
 
-### 1. Beginner — Excel Fundamentals
+### 1. Beginner - Excel Fundamentals
 
 Introduction to essential Excel functions and spreadsheet operations.
 
@@ -48,7 +48,7 @@ Introduction to essential Excel functions and spreadsheet operations.
 - Error handling
 - Format Painter
 
-### 2. Intermediate — Data Processing & Logical Functions
+### 2. Intermediate - Data Processing & Logical Functions
 
 Development of more advanced spreadsheet techniques for data manipulation, validation, and analysis.
 
@@ -67,7 +67,7 @@ Development of more advanced spreadsheet techniques for data manipulation, valid
 - Date and time calculations
 - WORKDAY, NETWORKDAYS, and DATEDIF
 
-### 3. Advanced — Dynamic Arrays & Analytical Functions
+### 3. Advanced - Dynamic Arrays & Analytical Functions
 
 Exploration of advanced Excel capabilities for more flexible and efficient spreadsheet calculations.
 
@@ -100,11 +100,11 @@ The workbook also contains additional resources to improve usability and product
 
 ```text
 Excel-Personal-Workbook/
-│
-├── Excel/
-│   └── My_Personal_Workbook.xlsx
-│
-└── README.md
+|
+|-- Excel/
+|   |-- My_Personal_Workbook.xlsx
+|
+|-- README.md
 ```
 
 ## Key Features
@@ -114,3 +114,8 @@ Excel-Personal-Workbook/
 - **Centralized Reference:** A reusable knowledge base for everyday spreadsheet tasks.
 - **Efficient Navigation:** Dedicated index to help locate relevant functions.
 - **Analytical Focus:** Emphasis on formulas, data manipulation, conditional calculations, and advanced lookup techniques.
+
+
+It demonstrates an understanding of spreadsheet functionality and analytical problem-solving techniques relevant to **Data Analytics, Business Intelligence, reporting, and data management**.
+
+*An independently developed Excel knowledge base designed to support continuous learning, analytical productivity, and efficient data-driven workflows.*
